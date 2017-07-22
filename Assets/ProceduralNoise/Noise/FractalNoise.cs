@@ -2,8 +2,6 @@ using System;
 using System.Collections;
 using UnityEngine;
 
-//TEST COMMENT
-
 namespace ProceduralNoiseProject
 {
     /// <summary>
