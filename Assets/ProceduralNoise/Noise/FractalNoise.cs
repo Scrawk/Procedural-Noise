@@ -2,6 +2,8 @@ using System;
 using System.Collections;
 using UnityEngine;
 
+//TEST COMMENT
+
 namespace ProceduralNoiseProject
 {
     /// <summary>
@@ -54,7 +56,7 @@ namespace ProceduralNoiseProject
         /// The frequencies for each octave.
         /// </summary>
         public float[] Frequencies { get; set; }
-		
+	
         public FractalNoise(INoise noise, int octaves, float frequency, float amplitude = 1.0f)
         {
 
