@@ -2,7 +2,7 @@
 
 This is a collection of procedural noise algorithms I have collected from various places over the years. They have been reworked into a common framework I use and can be added to a fractal noise object to turn the noise into a fractal. Each noise supports sampling in 1, 2 and 3 dimensions.
 
-See [home page](https://www.digital-dust.com/single-post/2017/03/14/Procedural-noise-in-Unity) for more infomation.
+See [home page](https://www.digital-dust.com/single-post/2017/03/14/Procedural-noise-in-Unity) for more infomation and unity package download.
 
 ## Perlin Noise
 
