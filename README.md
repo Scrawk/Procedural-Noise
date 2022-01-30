@@ -38,7 +38,7 @@ This is just another method of generating Voronoi noise. It looks pretty much th
 
 List of procedural noise projects
 
-[Procedural Noise] (https://github.com/Scrawk/Procedural-Noise)\
-[GPU-Voronoi-Noise] (https://github.com/Scrawk/GPU-Voronoi-Noise)\
-[GPU-GEMS-Improved-Perlin-Noise] (https://github.com/Scrawk/GPU-GEMS-Improved-Perlin-Noise)
+[Procedural Noise](https://github.com/Scrawk/Procedural-Noise)\
+[GPU-Voronoi-Noise](https://github.com/Scrawk/GPU-Voronoi-Noise)\
+[GPU-GEMS-Improved-Perlin-Noise](https://github.com/Scrawk/GPU-GEMS-Improved-Perlin-Noise)
 
