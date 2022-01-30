@@ -35,3 +35,10 @@ This implementation for this noise was found [here](https://aftbit.com/cell-nois
 This is just another method of generating Voronoi noise. It looks pretty much the same but is slightly different with the values being more uniform.
 
 ![Worley Noise](./Media/Worley.png)
+
+List of procedural noise projects
+
+[Procedural Noise] (https://github.com/Scrawk/Procedural-Noise)\
+[GPU-Voronoi-Noise] (https://github.com/Scrawk/GPU-Voronoi-Noise)\
+[GPU-GEMS-Improved-Perlin-Noise] (https://github.com/Scrawk/GPU-GEMS-Improved-Perlin-Noise)
+
